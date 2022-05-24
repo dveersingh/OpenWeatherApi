@@ -6,7 +6,10 @@
 
            Password = Password@123
            
-            pip install -r requirements.txt
+           
+### Run below command to install the requirments
+
+           pip install -r requirements.txt
 
 ## Requirments 
         Flask==2.0.2
