@@ -30,7 +30,12 @@
         "password":"Password@123"
         }
 
+## To run the app run the below command on terminal
 
+    flask run
+   
+### OR
+    python app.py
  
 
 ## LogOut Api :
