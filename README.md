@@ -30,7 +30,7 @@ Password = Password@123
 
 ## LogOut Api :
 
-### Url : localhost:5000/logout
+    ### Url : localhost:5000/logout
 
  
 
