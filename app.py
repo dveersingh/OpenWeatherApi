@@ -42,7 +42,7 @@ scheduler = APScheduler() #scheduler to fetch data from openweather
 if __name__ == '__main__':
 	from routes import *
 	
-	scheduler.add_job(id = 'Scheduled Task', func=openweather_data, trigger="interval", seconds=300)
+	scheduler.add_job(id = 'Scheduled Task', func=openweather_data, trigger="interval", seconds=1800)
 	scheduler.start()
 	app.run(debug=True,use_reloader=False)
 	
