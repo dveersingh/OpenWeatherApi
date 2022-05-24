@@ -19,6 +19,7 @@ Password = Password@123
 
 ## Login api: 
     url : localhost:5000/login
+    
 #### json data to send 
         {
         "username":"dharmveer11",
@@ -30,7 +31,7 @@ Password = Password@123
 
 ## LogOut Api :
 
-    ### Url : localhost:5000/logout
+    Url : localhost:5000/logout
 
  
 
@@ -39,7 +40,8 @@ Password = Password@123
     Total page: 6
     Per page item = 5
     Default page is 1.
-### URL :  localhost:5000/weather_data/{pageNumber}
+    
+    URL :  localhost:5000/weather_data/{pageNumber}
 
 ### Response: 
 
