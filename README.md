@@ -21,6 +21,15 @@
         SQLAlchemy==1.4.31
         Werkzeug==2.0.2
 
+
+## To run the app run the below command on terminal
+
+    flask run
+   
+### OR
+    python app.py
+ 
+
 ## Login api: 
     url : localhost:5000/login
     
@@ -30,13 +39,6 @@
         "password":"Password@123"
         }
 
-## To run the app run the below command on terminal
-
-    flask run
-   
-### OR
-    python app.py
- 
 
 ## LogOut Api :
 
