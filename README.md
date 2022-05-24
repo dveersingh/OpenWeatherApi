@@ -2,8 +2,9 @@
 
 ### I have used flask restful api to implement the given task.
 
-Username = dharmveer11
-Password = Password@123
+           Username = dharmveer11
+
+           Password = Password@123
            
             pip install -r requirements.txt
 
